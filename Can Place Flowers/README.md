@@ -1,7 +1,6 @@
 ### 605. Can Place Flowers
 # Language: Java
-# Leetcode Runtime: 1ms
-Beats 97.63%
+# Leetcode Runtime: 1ms (Beats 97.63%)
 
 
 # Description:
@@ -12,6 +11,9 @@ Given an integer array flowerbed containing 0's and 1's, where 0 means empty and
 # Constraints:
 
 1 <= flowerbed.length <= 2 * 104
+
 flowerbed[i] is 0 or 1.
+
 There are no two adjacent flowers in flowerbed.
+
 0 <= n <= flowerbed.length

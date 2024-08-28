@@ -1,9 +1,9 @@
 ### 1768. Merge Strings Alternately
 # Language: Java
-# Leetcode Runtime: 0ms
-Beats 100%
+# Leetcode Runtime: 0ms (Beats 100%)
 
 Time complexity: O(max(word1.length(), word2.length()))
+
 Space complexity: O(word1.length() + word2.length())
 
 # Description:
@@ -13,4 +13,5 @@ Return the merged string.
 # Constraints:
 
 1 <= word1.length, word2.length <= 100
+
 word1 and word2 consist of lowercase English letters.

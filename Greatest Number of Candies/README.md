@@ -14,7 +14,10 @@ Note that multiple kids can have the greatest number of candies.
 
 #Constraints:
 n == candies.length
+
 2 <= n <= 100
+
 1 <= candies[i] <= 100
+
 1 <= extraCandies <= 50
 
